@@ -118,7 +118,7 @@ def search_and_write_places(locations, activities, destination_types, output_fil
                 file.write(itinerary + "\n")
 
 # Example usage
-weather_api_key = '8cf695c576284aeb8d482456240905'
+weather_api_key = ''
 locations = ['Tamil Nadu']
 
 # Collect user preferences dynamically
